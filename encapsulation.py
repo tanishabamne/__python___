@@ -1,5 +1,5 @@
 # wrapping variables as well as method in a single unit is called encapsulation.
-# eg.----->class
+# eg.------->class
 class book:
     price=100
     def __init__(self,name):
@@ -11,5 +11,5 @@ class book:
        p="hello"
        cls.price=x
     @staticmethod
-    def greet():
+    def great():
        print("welcome to my web page") 
