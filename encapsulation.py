@@ -13,3 +13,4 @@ class book:
     @staticmethod
     def great():
        print("welcome to my web page") 
+obj=book("tanisha")       
